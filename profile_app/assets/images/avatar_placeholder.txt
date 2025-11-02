@@ -1,0 +1,8 @@
+// Profile Avatar Image Placeholder
+// 
+// This file represents where the profile avatar image should be placed.
+// In a real app, you would add an actual image file like:
+// - avatar.jpg
+// - avatar.png
+// 
+// For now, the app will use the default person icon when avatarPath is empty.

@@ -50,7 +50,6 @@ Một ứng dụng thời tiết thông minh được xây dựng bằng Flutter
 
 ### **1. Clone repository**
 ```bash
-git clone https://github.com/bichle04/weather-app-flutter.git
 cd weather_app
 ```
 

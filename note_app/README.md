@@ -45,7 +45,6 @@ Một ứng dụng ghi chú đơn giản được xây dựng bằng Flutter v�
 
 ### **1. Clone repository**
 ```bash
-git clone <repository-url>
 cd note_app
 ```
 

@@ -6,12 +6,9 @@ Một ứng dụng lời nhắc hiện đại và đơn giản được xây d�
 
 ### Screenshots
 
-#### Main Interface
 ![Home Screen - Empty State](screenshots/1.png)
 ![Create New Reminder](screenshots/2.png)
 ![Date & Time Selection](screenshots/3.png)
-
-#### Reminder Management  
 ![Reminder List View](screenshots/4.png)
 ![Reminder Details](screenshots/5.png)
 ![Notification Alert](screenshots/6.png)

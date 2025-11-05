@@ -2,6 +2,12 @@
 
 Một ứng dụng ghi chú đơn giản được xây dựng bằng Flutter với Provider State Management, cho phép người dùng tạo, chỉnh sửa và xóa ghi chú một cách dễ dàng.
 
+### Screenshots
+
+![Home Screen](screenshots/1.png)
+![Add](screenshots/2.png)
+![Delete](screenshots/3.png)
+
 ##  Chức năng chính
 
 -  **Tạo ghi chú mới** với tiêu đề và nội dung

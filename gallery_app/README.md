@@ -2,6 +2,13 @@
 
 Một ứng dụng thư viện ảnh hiện đại được xây dựng bằng Flutter với Provider State Management, tích hợp camera và gallery access, lưu trữ local với quản lý permissions, và thiết kế minimalist với Modern Material Design 3.
 
+### Screenshots
+
+![Home Screen](screenshots/1.png)
+![Choose photos from Gallery of device](screenshots/2.png)
+![Gallery](screenshots/3.png)
+![Choose photos](screenshots/3.png)
+
 ## Chức năng chính
 
 - **Chụp ảnh trực tiếp** với camera tích hợp và xử lý permissions

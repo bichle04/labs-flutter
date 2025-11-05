@@ -2,6 +2,18 @@
 
 Một ứng dụng hồ sơ cá nhân hiện đại được xây dựng bằng Flutter với Provider State Management, tích hợp thiết kế responsive và các tính năng nâng cao cho việc hiển thị thông tin cá nhân, kỹ năng và liên kết xã hội.
 
+### Screenshots
+
+#### Light mode
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+
+#### Dark mode
+![](screenshots/4.png)
+![](screenshots/5.png)
+![](screenshots/6.png)
+
 ## Chức năng chính
 
 - **Hiển thị hồ sơ cá nhân** với avatar được tạo tự động từ tên

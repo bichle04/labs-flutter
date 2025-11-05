@@ -2,6 +2,10 @@
 
 Một ứng dụng thời tiết thông minh được xây dựng bằng Flutter, cho phép người dùng xem thông tin thời tiết theo vị trí GPS hiện tại hoặc tìm kiếm theo tên thành phố với tính năng autocomplete giống Google Maps.
 
+### Screenshots
+
+![Home Screen](screenshots/1.png)
+
 ##  Chức năng chính
 
 -  **Thời tiết theo GPS** - Tự động lấy thời tiết tại vị trí hiện tại

@@ -1,6 +1,12 @@
 # Expense Tracker App - Flutter
 
-Một ứng dụng quản lý chi tiêu toàn diện được xây dựng bằng Flutter với lưu trữ dữ liệu local offline sử dụng Hive, biểu đồ tương tác với fl_chart, và giao diện responsive với hỗ trợ dark/light theme.
+Một ứng dụng quản lý chi tiêu toàn diện được xây dựng bằng Flutter với lưu trữ dữ liệu local offline sử dụng Hive, biểu đồ tương tác với fl_chart, và giao diện responsive.
+
+### Screenshots
+
+![Home Screen](screenshots/1.png)
+![Add Expense](screenshots/2.png)
+![Analytics](screenshots/3.png)
 
 ## Chức năng chính
 
@@ -11,7 +17,6 @@ Một ứng dụng quản lý chi tiêu toàn diện được xây dựng bằng
 - **Lưu trữ offline** hoàn toàn với Hive database
 - **Tìm kiếm và lọc** chi tiêu theo tiêu chí
 - **Thống kê tổng quan** theo ngày, tuần, tháng
-- **Dark/Light theme** tự động và thủ công
 
 ## Công nghệ & Kỹ thuật
 
@@ -51,7 +56,6 @@ Một ứng dụng quản lý chi tiêu toàn diện được xây dựng bằng
 - **intl** - Date và currency formatting
 - **uuid** - Unique ID generation
 - **Form Validation** - Input validation logic
-- **Theme Management** - Dark/light theme switching
 
 ### **Architecture**
 - **Model-View-Provider (MVP)** pattern
